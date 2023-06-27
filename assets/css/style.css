@@ -15,7 +15,7 @@ main {
 
 aside {
   flex-basis: 30%;
-  max-width: 300px;
+  max-width: 20%;
   height: 600px;
   background-color: peachpuff;
   margin: 10px;
@@ -30,10 +30,15 @@ aside {
   font-family: Arial, sans-serif;
   font-size: 18px;
 }
+aside img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .project-heading {
   flex-basis: 30%;
   min-width: 70%;
-  height: 200px;
+  height: 100px;
   background-color: peachpuff;
   margin: 10px;
   padding: 20px;
@@ -47,6 +52,7 @@ aside {
   font-family: Arial, sans-serif;
   font-size: 18px;
 }
+
 .project {
   flex-basis: 30%;
   max-width: 300px;
