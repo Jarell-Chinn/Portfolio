@@ -1,93 +1,28 @@
-# 02 Advanced CSS: Portfolio
+# Jarell Chinn Portfolio
 
-## Your Task
+## Technology Used
 
-Welcome to this week's challenge! This is an even-numbered week, so you won't be given any starter code. Instead, you'll create a web application from scratch! This week, you'll build a portfolio page, which you can add to as the course progresses.
+| Technology Used |                                              Resource URL                                              |
+| --------------- | :----------------------------------------------------------------------------------------------------: |
+| HTML            | [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| CSS             |  [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  |
+| Git             |                              [https://git-scm.com/](https://git-scm.com/)                              |
 
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies.
+## Description
 
-With these points in mind, in this challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
+[Visit the Deployed Site](https://jarell-chinn.github.io/Portfolio/#socials)
 
-**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
+This is my portfolio to showcase my growing skills as web developer. This has a little bit about me and what my goals are for the future and some work that I have completed. Near the bottom you'll see my socials.
 
-Let’s take a look at what a user story written from the perspective of a hiring manager might look like. As you might remember from your first challenge, we follow the AS AN / I WANT / SO THAT format.
+## Usage
 
-## User Story
+![alt text](assets/images/portfolio.png)
 
-```
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-```
+# Learning points/Features
 
-## Acceptance Criteria
+The biggest problem I had while making this website was the layout. It took me way too long to figure out how to display the projects under the projects header and to the right of the about me. Then I had a solution of making the projects part of the project header just organizing it within the parent. I look forward to updating this project to add more features and style to it. I very proud of my box-shadow usage on the header to make the entire page a pseudo gradient type page.
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+## Aurthor Info
 
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
-
-## Mock-Up
-
-The following animation shows the web application's appearance and functionality:
-
-![portfolio demo](./assets/images/02-advanced-css-challenge-demo.gif)
-
-## Grading Requirements
-
-This challenge is graded based on the following criteria:
-
-### Technical Acceptance Criteria: 40%
-
-- Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-- Application deployed at live URL.
-
-- Application loads with no errors.
-
-- Application GitHub URL submitted.
-
-- GitHub repository contains application code.
-
-### Application Quality: 15%
-
-- Application resembles the mock-up functionality provided in the challenge instructions.
-
-### Repository Quality: 13%
-
-- Repository has a unique name.
-
-- Repository follows best practices for file structure and naming conventions.
-
-- Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-- Repository contains multiple descriptive commit messages.
-
-- Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-- The URL of the deployed application.
-
-- The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+- [LinkedIn](https://www.linkedin.com/in/jarell-chinn-517307220/)
+- [Github](https://github.com/Jarell-Chinn)
