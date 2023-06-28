@@ -105,13 +105,13 @@ aside img {
 }
 .project-1 a {
   display: block;
-  width: 100%;
-  height: 100%;
+  width: 170%;
+  height: 110%;
 }
 .project a {
   display: block;
-  width: 100%;
-  height: 100%;
+  width: 150%;
+  height: 125%;
 }
 div {
   display: flex;
@@ -139,6 +139,7 @@ h2 {
   justify-content: center;
   margin: 2% 0;
   font-size: 250%;
+  font-family: cursive;
 }
 h3 {
   font-size: 150%;
