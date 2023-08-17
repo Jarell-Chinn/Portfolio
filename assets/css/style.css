@@ -102,6 +102,26 @@ aside img {
   font-family: Arial, sans-serif;
   font-size: 18px;
 }
+.project-3 {
+  flex-basis: 40%;
+  min-width: 70%;
+  height: 200px;
+  background-color: peachpuff;
+  background-image: url(../images/CatBucks.png);
+  background-size: cover;
+  background-position: center;
+  margin: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
 
 .project-1 {
   flex-basis: 50%;
@@ -129,6 +149,11 @@ aside img {
   height: 110%;
 }
 .project a {
+  display: block;
+  width: 150%;
+  height: 125%;
+}
+.project-3 a {
   display: block;
   width: 150%;
   height: 125%;
