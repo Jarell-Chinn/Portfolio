@@ -122,12 +122,32 @@ aside img {
   font-family: Arial, sans-serif;
   font-size: 18px;
 }
+.project-4 {
+  flex-basis: 40%;
+  min-width: 70%;
+  height: 200px;
+  background-color: peachpuff;
+  background-image: url(../images/BreakingBadO.png);
+  background-size: cover;
+  background-position: center;
+  margin: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
 
 .project-1 {
   flex-basis: 50%;
   min-width: 70%;
   height: 150px;
-  background-image: url(../images/BreakingBadO.png);
+  background-image: url(../images/landingpage2.png);
   background-size: cover;
   background-position: center;
   background-repeat: initial;
